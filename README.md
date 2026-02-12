@@ -15,6 +15,8 @@
 
   国内开发者镜像：https://dl.google.com/android/repository/platform-tools-latest-windows.zip
 
+  哦，对了，这个程序现在还没有支持英文，以后会加。
+
   # English Illustration(翻译软件翻的，可能有错)：
 
   This project provides a GUI suitable for adb tools, including some commonly used operations.
@@ -30,3 +32,5 @@
   Huawei Open Source Mirror Station (This is something I use myself, but to access the page, I need to search and find the corresponding version of platform tools to download)：https://mirrors.huaweicloud.com/android/repository/
 
   Domestic developer image:https://dl.google.com/android/repository/platform-tools-latest-windows.zip
+
+  Oh, by the way, this program doesn't support English yet, it will be added in the future.
